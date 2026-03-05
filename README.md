@@ -61,7 +61,7 @@ Continuously improving my skills in software design, deployment, and system scal
 
 ## Cloud Banking System – Microservices Architecture
 
-![Cloud Banking Banner](AQUI_VA_LA_URL_DE_TU_IMAGEN)
+![Cloud Banking Banner](https://github.com/Alejandro7337/Alejandro7337/blob/91d218a3444d4f8a2c470c428f8ece401a1363ba/Bancoagil.png)
 
 [![Repositorio](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/jnocuac-byte/banco-agil-col-gcp)
 
@@ -87,7 +87,7 @@ Focus on scalability, modular architecture, and cloud-native deployment.
 
 ## Adventure Kong - Game made with the pygame library
 
-![Adventure kong baner](AQUI_VA_LA_URL_DE_TU_IMAGEN)
+![Adventure kong baner](https://github.com/Alejandro7337/Alejandro7337/blob/91d218a3444d4f8a2c470c428f8ece401a1363ba/Adventure_kong.png)
 
 [![Repositorio](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/Alejandro7337/adventure-kong)
 
