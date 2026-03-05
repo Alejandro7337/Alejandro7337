@@ -59,7 +59,16 @@ Continuously improving my skills in software design, deployment, and system scal
 
 ## Featured Projects
 
-### 🏦 Cloud Banking System – Microservices Architecture
+## Cloud Banking System – Microservices Architecture
+
+![Cloud Banking Banner](AQUI_VA_LA_URL_DE_TU_IMAGEN)
+
+[![Repositorio](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/jnocuac-byte/banco-agil-col-gcp)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 Full stack banking application built using microservices with Spring Boot and deployed on Google Cloud Platform.
 
 **Architecture & Deployment:**
@@ -76,7 +85,15 @@ Focus on scalability, modular architecture, and cloud-native deployment.
 
 ---
 
-### Adventure Kong
+## Adventure Kong - Game made with the pygame library
+
+![Adventure kong baner](AQUI_VA_LA_URL_DE_TU_IMAGEN)
+
+[![Repositorio](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/Alejandro7337/adventure-kong)
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+
+
 Arcade-style platform game developed with Pygame, inspired by the 80's Donkey Kong, redesigned with an Adventure Time theme.
 
 **Highlights:**
@@ -89,14 +106,16 @@ Demonstrates logic implementation, game loops, and structured Python development
 
 ---
 
-##  GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejandro7337&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro7337&layout=compact&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Alejandro7337&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro7337&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alejandro7337&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ##  Professional Focus
 
